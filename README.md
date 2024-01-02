@@ -2,9 +2,6 @@
 
 This is an example of an implementation of a simple CI/CD pipeline using Cloud Build in GCP. 
 
-The step to step installation can be found in the following article: 
-[https://www.linkedin.com/pulse/how-create-cicd-pipeline-gcp-cloud-build-guillaume-vilar](https://www.linkedin.com/pulse/how-create-cicd-pipeline-gcp-cloud-build-guillaume-vilar)
-
 Simple actions are defined in the Makefile: 
 ```
 build-local:
